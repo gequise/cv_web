@@ -164,6 +164,12 @@ button{
 .btn:hover{
   color: var(--white);
 }
+.visitor{
+  position: absolute;
+  right: 0px;
+  bottom: -600px;
+  padding: 10px;
+}
 /* ----------------------
 Home section
 ------------------------- */
