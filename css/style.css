@@ -74,10 +74,14 @@ h2 {
   font-weight: 600;
 }
 h3,
-h4,
-h5,
+h4 {
+  font-weight: 550;
+}
 h5 {
   font-weight: 500;
+}
+h6 {
+  font-weight: 450;
 }
 section {
   background-color: var(--white-alpha-25);
